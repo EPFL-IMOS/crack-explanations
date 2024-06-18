@@ -1,0 +1,15 @@
+torch
+torchvision
+pytorch_lightning
+numpy
+pandas
+scikit-learn
+scikit-image
+matplotlib
+einops
+# grad-cam  # only required for GradCAM (cam.py)
+opencv-python
+fire
+captum
+zennit
+scipy

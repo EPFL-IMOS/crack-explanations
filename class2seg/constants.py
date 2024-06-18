@@ -1,0 +1,61 @@
+TRAIN_IMAGES_POSITIVE = [
+    "train"
+]
+
+TRAIN_IMAGES_NEGATIVE = [
+    "train_negative_verified"
+]
+
+TRAIN_IMAGES = TRAIN_IMAGES_POSITIVE + TRAIN_IMAGES_NEGATIVE
+
+VAL_IMAGES_POSITIVE = [
+    "valid"
+]
+
+VAL_IMAGES_NEGATIVE = [
+    "val_negative_verified"
+]
+
+VAL_IMAGES = VAL_IMAGES_POSITIVE + VAL_IMAGES_NEGATIVE
+
+TEST_IMAGES_POSITIVE = [
+    "test"
+]
+
+TEST_IMAGES_NEGATIVE = [
+    "test_negative_verified"
+]
+
+TEST_IMAGES = TEST_IMAGES_POSITIVE + TEST_IMAGES_NEGATIVE
+
+SEED = 42
+
+# TRAIN_IMAGES_POSITIVE = [
+#     "train_positive"
+# ]
+
+# TRAIN_IMAGES_NEGATIVE = [
+#     "train_negative"
+# ]
+
+# TRAIN_IMAGES = TRAIN_IMAGES_POSITIVE + TRAIN_IMAGES_NEGATIVE
+
+# VAL_IMAGES_POSITIVE = [
+#     "val_positive"
+# ]
+
+# VAL_IMAGES_NEGATIVE = [
+#     "val_negative"
+# ]
+
+# VAL_IMAGES = VAL_IMAGES_POSITIVE + VAL_IMAGES_NEGATIVE
+
+# TEST_IMAGES_POSITIVE = [
+#     "test_positive"
+# ]
+
+# TEST_IMAGES_NEGATIVE = [
+#     "test_negative"
+# ]
+
+# TEST_IMAGES = TEST_IMAGES_POSITIVE + TEST_IMAGES_NEGATIVE
