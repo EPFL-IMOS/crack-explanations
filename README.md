@@ -1,8 +1,24 @@
-# Crack Explanations
+<div align='center'>
 
-**From classification to segmentation with explainable AI: A study on crack detection and growth monitoring**
+# From classification to segmentation with explainable AI: A study on crack detection and growth monitoring
 
-[Florent Forest](https://florentfo.rest), Hugo Porta, Devis Tuia and Olga Fink. *Automation in Construction*, 2024.
+[Florent Forest](https://florentfo.rest)<sup>1</sup>&nbsp;&nbsp;&nbsp;
+[Hugo Porta](https://people.epfl.ch/hugo.porta)<sup>2</sup>&nbsp;&nbsp;&nbsp;
+[Devis Tuia](https://people.epfl.ch/devis.tuia)<sup>2</sup>&nbsp;&nbsp;&nbsp;
+[Olga Fink](https://people.epfl.ch/olga.fink)<sup>1</sup>
+<br/>
+<sub>
+<sup>1</sup> Intelligent Maintenance and Operations Systems (IMOS), EPFL, Lausanne, Switzerland<br/>
+<sup>2</sup> Environmental Computational Science and Earth Observation (ECEO), EPFL, Sion, Switzerland
+</sub>
+
+Automation in Construction, 2024
+
+[![Paper](https://img.shields.io/badge/paper-AutCon-174c80)](https://www.sciencedirect.com/science/article/pii/S0926580524002334)&nbsp;&nbsp;&nbsp;[![Arxiv](https://img.shields.io/badge/arXiv-2309.11267-B31B1B)](https://arxiv.org/abs/2309.11267)
+
+</div>
+
+Source code for the implementation of the paper [From classification to segmentation with explainable AI: A study on crack detection and growth monitoring](https://www.sciencedirect.com/science/article/pii/S0926580524002334).
 
 ## Getting started
 
@@ -99,7 +115,7 @@ The DIC cracks dataset is available on [Zenodo](https://zenodo.org/records/43076
 
 Additional negative images for classifier training will be made available.
 
-## Citing our paper
+## Citation
 
 If our work was useful to you, please cite our paper:
 
