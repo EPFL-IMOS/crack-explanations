@@ -14,7 +14,7 @@
 
 Automation in Construction, 2024
 
-[![Paper](https://img.shields.io/badge/paper-AutCon-174c80)](https://www.sciencedirect.com/science/article/pii/S0926580524002334)&nbsp;&nbsp;&nbsp;[![Arxiv](https://img.shields.io/badge/arXiv-2309.11267-B31B1B)](https://arxiv.org/abs/2309.11267)
+[![Paper](https://img.shields.io/badge/paper-Automation%20in%20Construction-174c80)](https://www.sciencedirect.com/science/article/pii/S0926580524002334)&nbsp;&nbsp;&nbsp;[![Arxiv](https://img.shields.io/badge/arXiv-2309.11267-B31B1B)](https://arxiv.org/abs/2309.11267)
 
 </div>
 
